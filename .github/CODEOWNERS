@@ -4,7 +4,7 @@
 /folder_a/** @kaancolak
 
 # Only b is owned by berkay
-/folder_a/folder_b/ @berkay54
+/folder_a/folder_b/ @brkay54
 
 # Anything is owned by mfc
 * @xmfcx
