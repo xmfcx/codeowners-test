@@ -1,10 +1,10 @@
 # Nested ownership test
 
-# Anything is owned by mfc
-* @xmfcx
-
 # Both a and b is owned by kaan
 /folder_a/** @kaancolak
 
 # Only b is owned by berkay
 /folder_a/folder_b/** @brkay54
+
+# Anything is owned by mfc
+* @xmfcx
